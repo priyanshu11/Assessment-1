@@ -1,0 +1,16 @@
+.container{
+    background-color: coral;
+}
+.navbar{
+    background-color: cornflowerblue;
+}
+.card{
+    
+    margin:10% 30% 30% 0%;
+    padding:5px 5px 5px 5px;
+    size: 200px;
+ max-height: 1000px;
+}
+body{
+    background-color: black;
+}
